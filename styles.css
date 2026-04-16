@@ -12,7 +12,6 @@ body {
   flex-direction: column;
   justify-content: right;
   align-items: flex-end;
-
 }
 .top-section-wrapper {
   overflow: hidden;
