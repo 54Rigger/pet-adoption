@@ -7,7 +7,13 @@ html {
 body {
   font-family: 'Source Sans 3', sans-serif;
 }
+.moving-header {
+  display:flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: flex-end;
 
+}
 .top-section-wrapper {
   overflow: hidden;
   background-color: #001D37;
